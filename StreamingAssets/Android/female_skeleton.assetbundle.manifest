@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1107295501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38acb864b67d1d2ad568f850800c1cc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44a927f1101481494bb86bb1677be03e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Female/female_skeleton.prefab
+Dependencies: []
