@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1974128054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92fac315c19a1cd8afcbc11e45e7821b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1ebb0e4b5b9dd6026833d4ca4c74eae9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73c9469ab36f44f43bbb464f63e9bf3f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Male/male_skeleton.prefab
+Dependencies: []
